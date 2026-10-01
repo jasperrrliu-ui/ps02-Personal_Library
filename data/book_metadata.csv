@@ -1,0 +1,104 @@
+title,author,genre,year,themes
+Frankenstein,Mary Shelley,Science Fiction,1818,creation ethics; alienation; human nature
+The Time Machine,H. G. Wells,Science Fiction,1895,class inequality; social criticism; future society
+The War of the Worlds,H. G. Wells,Science Fiction,1898,invasion; survival; social anxiety
+Twenty Thousand Leagues Under the Sea,Jules Verne,Science Fiction,1870,exploration; isolation; scientific adventure
+A Journey to the Centre of the Earth,Jules Verne,Science Fiction,1864,exploration; scientific adventure; family
+Brave New World,Aldous Huxley,Science Fiction,1932,social control; identity; moral ambiguity
+Nineteen Eighty-Four,George Orwell,Science Fiction,1949,totalitarianism; surveillance; moral ambiguity
+Foundation,Isaac Asimov,Science Fiction,1951,politics; prediction; civilization
+Dune,Frank Herbert,Science Fiction,1965,politics; power; ecology
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,1979,absurdism; adventure; satire
+The Adventures of Sherlock Holmes,Arthur Conan Doyle,Mystery,1892,detective fiction; deduction; literary mystery
+The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,1902,detective fiction; gothic mystery; literary mystery
+The Moonstone,Wilkie Collins,Mystery,1868,detective fiction; family secrets; literary mystery
+The Woman in White,Wilkie Collins,Mystery,1859,identity; conspiracy; literary mystery
+The Murder of Roger Ackroyd,Agatha Christie,Mystery,1926,detective fiction; deception; literary mystery
+Murder on the Orient Express,Agatha Christie,Mystery,1934,detective fiction; justice; moral ambiguity
+And Then There Were None,Agatha Christie,Mystery,1939,crime; guilt; psychological motives
+The Maltese Falcon,Dashiell Hammett,Mystery,1930,crime fiction; greed; moral ambiguity
+The Big Sleep,Raymond Chandler,Mystery,1939,crime fiction; corruption; moral ambiguity
+The Name of the Rose,Umberto Eco,Mystery,1980,medieval mystery; ideas; literary mystery
+Pride and Prejudice,Jane Austen,Classic Literature,1813,society; relationships; human nature
+Jane Eyre,Charlotte Bronte,Classic Literature,1847,identity; morality; human nature
+Great Expectations,Charles Dickens,Classic Literature,1861,ambition; class; moral growth
+Moby-Dick,Herman Melville,Classic Literature,1851,obsession; fate; human nature
+Middlemarch,George Eliot,Classic Literature,1871,society; ambition; human nature
+Crime and Punishment,Fyodor Dostoevsky,Classic Literature,1866,guilt; morality; psychological motives
+Anna Karenina,Leo Tolstoy,Classic Literature,1878,society; desire; moral ambiguity
+Les Miserables,Victor Hugo,Classic Literature,1862,justice; redemption; human nature
+Don Quixote,Miguel de Cervantes,Classic Literature,1605,idealism; identity; satire
+Little Women,Louisa May Alcott,Classic Literature,1868,family; ambition; personal growth
+The Republic,Plato,Philosophy,-380,justice; society; human nature
+Apology,Plato,Philosophy,-399,ethics; courage; moral reasoning
+Nicomachean Ethics,Aristotle,Philosophy,-350,ethics; virtue; human nature
+Meditations,Marcus Aurelius,Philosophy,180,stoicism; self-control; ethics
+The Prince,Niccolo Machiavelli,Philosophy,1532,power; politics; moral ambiguity
+Second Treatise of Government,John Locke,Philosophy,1689,rights; politics; society
+Critique of Pure Reason,Immanuel Kant,Philosophy,1781,knowledge; reason; ethics
+On Liberty,John Stuart Mill,Philosophy,1859,freedom; society; ethics
+Beyond Good and Evil,Friedrich Nietzsche,Philosophy,1886,morality; power; human nature
+The Problems of Philosophy,Bertrand Russell,Philosophy,1912,knowledge; reason; philosophy
+The Histories,Herodotus,History and Politics,-440,war; politics; human nature
+History of the Peloponnesian War,Thucydides,History and Politics,-400,war; power; political motives
+The Art of War,Sun Tzu,History and Politics,-500,strategy; conflict; human nature
+The Decline and Fall of the Roman Empire,Edward Gibbon,History and Politics,1776,power; society; historical change
+Common Sense,Thomas Paine,History and Politics,1776,revolution; rights; politics
+The Federalist Papers,Alexander Hamilton; James Madison; John Jay,History and Politics,1788,government; politics; institutions
+Democracy in America,Alexis de Tocqueville,History and Politics,1835,democracy; society; politics
+The Communist Manifesto,Karl Marx; Friedrich Engels,History and Politics,1848,class conflict; society; politics
+Guns Germs and Steel,Jared Diamond,History and Politics,1997,history; society; geography
+A People's History of the United States,Howard Zinn,History and Politics,1980,social history; power; justice
+On the Origin of Species,Charles Darwin,Science and Technology,1859,evolution; science; human nature
+Philosophiæ Naturalis Principia Mathematica,Isaac Newton,Science and Technology,1687,physics; science; discovery
+On the Revolutions of the Heavenly Spheres,Nicolaus Copernicus,Science and Technology,1543,astronomy; science; discovery
+The Double Helix,James D. Watson,Science and Technology,1968,science; ambition; ethics
+Silent Spring,Rachel Carson,Science and Technology,1962,ecology; ethics; society
+A Brief History of Time,Stephen Hawking,Science and Technology,1988,cosmology; science; discovery
+The Pragmatic Programmer,Andrew Hunt; David Thomas,Science and Technology,1999,craft; problem solving; technology
+Clean Code,Robert C. Martin,Science and Technology,2008,craft; problem solving; technology
+Python Crash Course,Eric Matthes,Science and Technology,2015,learning; programming; technology
+Designing Data-Intensive Applications,Martin Kleppmann,Science and Technology,2017,systems; technology; data
+The Interpretation of Dreams,Sigmund Freud,Psychology and Business,1899,psychological motives; unconscious; human nature
+Man's Search for Meaning,Viktor E. Frankl,Psychology and Business,1946,meaning; resilience; human nature
+How to Win Friends and Influence People,Dale Carnegie,Psychology and Business,1936,relationships; influence; social behavior
+Think and Grow Rich,Napoleon Hill,Psychology and Business,1937,ambition; motivation; success
+The 7 Habits of Highly Effective People,Stephen R. Covey,Psychology and Business,1989,habits; personal growth; goals
+Thinking Fast and Slow,Daniel Kahneman,Psychology and Business,2011,decision making; psychological motives; human nature
+Atomic Habits,James Clear,Psychology and Business,2018,habits; behavior; personal growth
+Influence,Robert B. Cialdini,Psychology and Business,1984,persuasion; psychological motives; social behavior
+Thinking in Systems,Donella H. Meadows,Psychology and Business,2008,systems; society; problem solving
+The Lean Startup,Eric Ries,Psychology and Business,2011,innovation; business; experimentation
+The Brothers Karamazov,Fyodor Dostoevsky,Classic Literature,1880,faith; guilt; psychological motives
+Notes from Underground,Fyodor Dostoevsky,Classic Literature,1864,alienation; psychological motives; human nature
+White Night (Byakuyako),Keigo Higashino,Mystery,1999,modern crime fiction; psychological motives; moral ambiguity
+The Devotion of Suspect X,Keigo Higashino,Mystery,2005,modern crime fiction; sacrifice; psychological motives
+Malice,Keigo Higashino,Mystery,2001,modern crime fiction; revenge; psychological motives
+The Talented Mr. Ripley,Patricia Highsmith,Mystery,1955,identity; crime; moral ambiguity
+In Cold Blood,Truman Capote,Mystery,1966,true crime; psychological motives; human nature
+The Silence of the Lambs,Thomas Harris,Mystery,1988,psychological thriller; crime; psychological motives
+The Secret History,Donna Tartt,Mystery,1992,contemporary fiction; moral ambiguity; literary mystery
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,2005,modern crime fiction; corruption; psychological motives
+The Likeness,Tana French,Mystery,2008,literary mystery; identity; psychological motives
+Gone Girl,Gillian Flynn,Mystery,2012,contemporary fiction; marriage; moral ambiguity
+The Dry,Jane Harper,Mystery,2016,modern crime fiction; community secrets; psychological motives
+Sharp Objects,Gillian Flynn,Mystery,2006,modern crime fiction; family trauma; psychological motives
+Dark Places,Gillian Flynn,Mystery,2009,modern crime fiction; family trauma; moral ambiguity
+The Kind Worth Killing,Peter Swanson,Mystery,2015,modern crime fiction; deception; moral ambiguity
+The Girl on the Train,Paula Hawkins,Mystery,2015,contemporary fiction; unreliable narrator; psychological motives
+The Woman in the Window,A. J. Finn,Mystery,2018,contemporary fiction; psychological thriller; psychological motives
+The Seven Deaths of Evelyn Hardcastle,Stuart Turton,Mystery,2018,literary mystery; identity; moral ambiguity
+Salvation of a Saint,Keigo Higashino,Mystery,2008,modern crime fiction; family secrets; psychological motives
+Newcomer,Keigo Higashino,Mystery,2009,modern crime fiction; community; psychological motives
+The Tokyo Zodiac Murders,Soji Shimada,Mystery,1981,locked room; literary mystery; deduction
+Out,Natsuo Kirino,Mystery,1997,modern crime fiction; crime; moral ambiguity
+The Remains of the Day,Kazuo Ishiguro,Classic Literature,1989,contemporary fiction; regret; moral ambiguity
+Never Let Me Go,Kazuo Ishiguro,Classic Literature,2005,contemporary fiction; ethics; human nature
+The Memory Police,Yoko Ogawa,Classic Literature,1994,contemporary fiction; memory; human nature
+The Vegetarian,Han Kang,Classic Literature,2007,contemporary fiction; identity; human nature
+The Plague,Albert Camus,Philosophy,1947,ethics; society; human nature
+The Trial,Franz Kafka,Philosophy,1925,bureaucracy; alienation; moral ambiguity
+The Stranger,Albert Camus,Philosophy,1942,alienation; morality; human nature
+The Righteous Mind,Jonathan Haidt,Psychology and Business,2012,morality; psychological motives; human nature
+The Lucifer Effect,Philip Zimbardo,Psychology and Business,2007,psychological motives; morality; human nature
+The Road to Character,David Brooks,Psychology and Business,2015,character; morality; human nature
